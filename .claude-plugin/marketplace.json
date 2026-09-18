@@ -1,0 +1,14 @@
+{
+  "name": "danmateer",
+  "owner": {
+    "name": "Dan Mateer",
+    "url": "https://github.com/danMateer"
+  },
+  "plugins": [
+    {
+      "name": "yoto-audiobook",
+      "source": "./",
+      "description": "Write and narrate an original children's audiobook through ElevenLabs v3, plus design 16x16 pixel-art chapter icons for the Yoto Player."
+    }
+  ]
+}

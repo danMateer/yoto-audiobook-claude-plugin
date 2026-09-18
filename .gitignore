@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Never commit an API key
+.elevenlabs_key
+*.key
+
+# macOS
+.DS_Store
+
+# Local audiobook output, if you run a book from inside this repo
+/audio/
+/mp3/
+/tagged/
+/text/
+*.mp3

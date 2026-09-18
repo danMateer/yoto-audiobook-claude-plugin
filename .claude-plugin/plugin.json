@@ -1,0 +1,23 @@
+{
+  "name": "yoto-audiobook",
+  "version": "1.0.0",
+  "description": "Two Yoto-focused skills: write an original multi-chapter children's book and narrate it through ElevenLabs v3 (with a mandatory spend-confirmation gate before any paid API call), and design 16x16 pixel-art chapter icons for the Yoto Player.",
+  "author": {
+    "name": "Dan Mateer",
+    "url": "https://github.com/danMateer"
+  },
+  "homepage": "https://github.com/danMateer/yoto-audiobook-claude-plugin",
+  "repository": "https://github.com/danMateer/yoto-audiobook-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "audiobook",
+    "childrens-books",
+    "storytelling",
+    "elevenlabs",
+    "text-to-speech",
+    "narration",
+    "yoto",
+    "pixel-art",
+    "icons"
+  ]
+}
